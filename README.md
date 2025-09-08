@@ -109,5 +109,5 @@ python joint.py
 
 ---
 
-如有建议、bug 反馈或合作意向，欢迎联系作者：
-highsun910@gmail.com
+如有建议、bug 反馈或合作意向，欢迎联系：
+highsun910@gmail.com；maxence29@163.com
